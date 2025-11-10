@@ -1,4 +1,4 @@
-# Boyer-Moore-Search-with-Alignment-Comparison-Counters-GRCh38-excerpt-
+# Boyer-Moore-Search-with-Alignment-Comparison-Counters-GRCh38-excerpt
 A Boyer–Moore (BM) string search that returns match indices plus the number of alignments tried and character comparisons, using the classic bad-character and good-suffix rules. Makes BM mechanics measurable for teaching—see how preprocessing drives fewer alignments and comparisons vs naïve matching.
 
 **Features**   
